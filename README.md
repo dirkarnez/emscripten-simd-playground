@@ -18,3 +18,6 @@ emscripten-simd-playground
 
 ### Specification
 - [WebAssembly/simd: Branch of the spec repo scoped to discussion of SIMD in WebAssembly](https://github.com/webassembly/simd/)
+
+### Third-party libraries
+- [yuikns/intrin: Compatibility <intrin.h> header for GCC](https://github.com/yuikns/intrin)
